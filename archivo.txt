@@ -1,6 +1,6 @@
 Primer practica Git con GitHub
 Materia: Aplicaciones Web
-Grupo: 3C
+Grupo: 3C - Matutino
 Carrera: Tecnologías de la Información
 Area: Desarrollo de Software Miltiplataforma
 Turno: Matutino
