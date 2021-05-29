@@ -7,4 +7,4 @@ Area: Desarrollo de Software Miltiplataforma
 Turno: Matutino
 Docente: Jose Christian Narvaez Figueroa
 Objetivo materia: Desarrollar aplicaciones que puedan ser desplegadas en internet
-Competencias: Algun texto mas para rellenar
+Competencias: Algun texto mas para rellenar y que se visualice el cambio
