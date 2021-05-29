@@ -1,0 +1,7 @@
+Hola Mundo
+Primer practica Git
+Aplicaciones Web
+Grupo: C
+Grado: 3ro
+Carrera: Tecnologias de la Información
+Area: Desarrollo de Software Miltiplataforma
