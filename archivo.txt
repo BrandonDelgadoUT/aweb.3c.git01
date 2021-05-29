@@ -1,6 +1,10 @@
 Primer practica Git con GitHub
 Materia: Aplicaciones Web
+<<<<<<< HEAD
 Grupo: 3C - Vespertino
+=======
+Grupo: 3C - Matutino
+>>>>>>> BrandonDelgado
 Carrera: Tecnologías de la Información
 Area: Desarrollo de Software Miltiplataforma
 Turno: Matutino
