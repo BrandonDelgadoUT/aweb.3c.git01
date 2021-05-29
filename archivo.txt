@@ -6,3 +6,4 @@ Carrera: Tecnologías de la Información
 Area: Desarrollo de Software Miltiplataforma
 Turno: Matutino
 Docente: Jose Christian Narvaez Figueroa
+Objetivo materia: Desarrollar aplicaciones que puedan ser desplegadas en internet
